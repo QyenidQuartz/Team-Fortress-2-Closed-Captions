@@ -1,0 +1,8 @@
+This project aims to provide a set of closed captions for Team Fortress 2
+
+* All closecaption_*.txt files must be stored with the "UCS-2 Little Endian"
+character encoding
+* All closecaption_*.dat files are generated from the related .txt file
+* The .dat and .txt files should be committed as a pair, as they must both match and be provided to the end-user
+
+
